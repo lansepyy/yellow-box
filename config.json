@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "key": "yellow",
+      "name": "YellowBox",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lansepyy/yellow-box/main/index.js"
+    }
+  ]
+}
